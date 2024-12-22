@@ -1,0 +1,414 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#headerdiv {
+    padding: 12px 32px;
+    background-color: #FBF9FF;
+}
+
+#faq {
+    width: 775px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#headerdiv2 {
+    width: 950px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text1 {
+    margin-left: 20px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#headerdiv3 {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    background: #6941C6;
+    display: inline-block;
+}
+
+#buttom {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+.maindiv1 {
+    margin: 0 auto;
+    padding: 96px;
+    margin-top: 131px;
+    background: #F1E8FF;
+    width: 1440px;
+}
+
+.maindiv2 {
+    width: 1248px;
+}
+
+.maindiv3 {
+    width: 768px;
+    margin: 0 auto;
+}
+
+.maintxt1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.maintxt2 {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.maindiv4 {
+    margin-left: 38px;
+    margin-top: 32px;
+    width: 373px;
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+}
+
+.boxdiv1 {
+    padding: 40px 32px 32px 32px;
+}
+
+.box1 {
+    width: 95px;
+    margin: 0 auto;
+}
+
+.boxtxt1 {
+    text-align: center;
+    font-size: 14px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    width: 93px;
+    border-radius: 9999px;
+}
+
+.box2 {
+    width: 309px;
+    display: inline-block;
+}
+
+.boxtxt2 {
+    display: inline-block;
+    font-size: 48px;
+    width: 309px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+.boxtxt3 {
+    display: inline-block;
+    font-size: 16px;
+    width: 309px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.boxtxt4 {
+    margin-top: 16px;
+    width: 309px;
+}
+
+.bottom2 {
+    margin-bottom: 38px;
+}
+
+.buttomtxt1 {
+    display: inline-block;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    width: 309px;
+    color: white;
+    text-align: center;
+}
+
+.buttomtxt2 {
+    display: inline-block;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: white;
+    width: 309px;
+    color: black;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.maindiv5 {
+    border-top: 1px solid #E9EAEB;
+    margin: 0 auto;
+    width: 310px;
+    margin-bottom: 40px;
+}
+
+.boxdiv2 {
+    width: 309px;
+    margin-top: 33px;
+}
+
+.txt1 {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.txt2 {
+    display: inline-block;
+}
+
+.tes {
+    margin-left: 12px;
+    font-size: 16px;
+}
+
+.boxdiv3 {
+    margin-top: 7px;
+}
+
+.txt3 {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.text4 {
+    display: inline-block;
+}
+
+.text5 {
+    text-align: center;
+    font-size: 14px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    width: 105px;
+    border-radius: 9999px;
+}
+
+.text6 {
+    text-align: center;
+    font-size: 14px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    width: 125px;
+    border-radius: 9999px;
+}
+
+.box3 {
+    width: 105px;
+}
+
+#secborder {
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    margin-top: 64px;
+}
+
+#middle {
+    font-size: 40px;
+    font-family: Inter;
+    text-align: center;
+}
+
+#secborder1 {
+    margin: 0 auto;
+    width: 768px;
+    margin-top: 32px;
+}
+
+#middle1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#therdborder {
+    margin: 0 auto;
+    width: 768px;
+    margin-top: 32px;
+
+}
+
+#therdborder1 {
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #E4E4E4
+}
+
+.group {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.group1 {
+    max-width: 651px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#therdborder2 {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #FFE5E5;
+    border: 2px solid #FF2323;
+}
+
+.top {
+    margin-top: 8px;
+}
+
+#therdborder3 {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #E9D7FF;
+}
+
+#therdborder4 {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+#therdborder5 {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+}
+
+#therdborder6 {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background: #FFD5E7;
+}
+
+#newborder {
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    margin-top: 64px;
+    width: 1248px;
+}
+
+#newborder1 {
+    width: 768px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#txt90 {
+    font-size: 40px;
+}
+
+#txt91 {
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+.newborder2 {
+    max-width: 580px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+}
+
+.newbordertxt1 {
+    width: 516px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#borderwidth {
+    max-width: 1180px;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+.newborderimg {
+    max-width: 516px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 32px 1px;
+}
+
+.newborderimg1 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.newborderimg2 {
+    display: inline-block;
+}
+
+.width {
+    display: inline-block;
+    width: 588px;
+}
+
+.newborderimg3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#imggg {
+    width: 16px;
+    height: 16px;
+}
+
+.newborderimg4 {
+    width: 310px;
+    display: inline-block;
+    margin-left: 14px;
+}
+
+.colortxt1 {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#margintop1 {
+    margin-top: 24px;
+}
+
+#paddingbottom {
+    padding-bottom: 203px;
+}
